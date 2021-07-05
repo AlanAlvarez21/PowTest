@@ -1,0 +1,7 @@
+ curl - X 'POST' \
+  'https://candidates.mifiel.com/api/v1/users/0be97999-d8e8-4ae5-89d4-bc57366308d0/challenge/digest' \
+  - H 'accept: application/json' \
+  - H 'Content-Type: application/json' \
+  - d '{
+  "result": """,
+}'
