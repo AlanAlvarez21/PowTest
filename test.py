@@ -59,10 +59,9 @@ import json
 
 # curl - X 'POST' \
 #     'https://candidates.mifiel.com/api/v1/users/0be97999-d8e8-4ae5-89d4-bc57366308d0/challenge/digest' \
-#     - H 'accept: application/json' \
-#      - H 'Content-Type: application/json' \
+#     - H 'Content-Type: application/json' \
 #     - d '{
-#         "result": "b'(\x8d\xe3\x15\xd1\x95\xfe\xe8R\x00\x05\xc0B\xb7~=7\xc5a\xe6-d\xacu\x13*\x91\x7f\xa5\x81\x9c\xa9'"
+#         "result": "288de315d195fee8520005c042b77e3d37c561e62d64ac75132a917fa5819ca9"
 #     }'
 
 # curl - X 'POST' \
